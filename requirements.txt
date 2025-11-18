@@ -1,0 +1,32 @@
+# DMD Co-Expression Network Analysis Pipeline Requirements
+# Core scientific computing
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+
+# Network analysis
+networkx
+
+# Bioinformatics tools
+PyWGCNA
+GEOparse
+inmoose  # Contains pyComBat for batch correction
+gseapy
+bioservices
+
+# Data processing and visualization
+jupyter
+streamlit
+ipywidgets
+
+# Additional utilities
+tqdm
+argparse
+logging
+pathlib
+json5
+

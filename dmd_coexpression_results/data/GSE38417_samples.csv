@@ -1,0 +1,23 @@
+sample_id,title,source,characteristics,condition,dataset,organism
+GSM941830,control biological rep1,control_muscle biopsy,sample type: CONTROL; age: unknown; tissue: skeletal muscle,Control,GSE38417,human
+GSM941831,control biological rep2,control_muscle biopsy,sample type: CONTROL; age: unknown; tissue: skeletal muscle,Control,GSE38417,human
+GSM941832,control biological rep3,control_muscle biopsy,sample type: CONTROL; age: unknown; tissue: skeletal muscle,Control,GSE38417,human
+GSM941833,control biological rep4,control_muscle biopsy,sample type: CONTROL; age: unknown; tissue: skeletal muscle,Control,GSE38417,human
+GSM941834,control biological rep5,control_muscle biopsy,sample type: CONTROL; age: unknown; tissue: skeletal muscle,Control,GSE38417,human
+GSM941835,control biological rep6,control_muscle biopsy,sample type: CONTROL; age: unknown; tissue: skeletal muscle,Control,GSE38417,human
+GSM941836,DMD biological rep1,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 11mo; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941837,DMD biological rep2,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 4yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941838,DMD biological rep3,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 1yr 8mo; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941839,DMD biological rep4,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 4yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941840,DMD biological rep5,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 8yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941841,DMD biological rep6,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 5yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941842,DMD biological rep7,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 6yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941843,DMD biological rep8,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 5yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941844,DMD biological rep9,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 4yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941845,DMD biological rep10,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 3yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941846,DMD biological rep11,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 3yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941847,DMD biological rep12,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 1yr 11mo; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941848,DMD biological rep13,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 1yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941849,DMD biological rep14,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 2yrs; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941850,DMD biological rep15,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 3yr 7mo; tissue: skeletal muscle,DMD,GSE38417,human
+GSM941851,DMD biological rep16,DMD_muscle biopsy,sample type: Duchenne muscular dystrophy (DMD) patient; age: 7yrs; tissue: skeletal muscle,DMD,GSE38417,human
